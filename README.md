@@ -3,7 +3,7 @@
 # LbL_Hydrogel
 Excel sheets implementing LbL Hydrogel fitting
 
-The Excel sheets in this archive accompany the manuscript "Architecture of Hydrated Multilayer Poly(methacrylic acid) Hydrogels: Effect of solution pH", by Veronika Kozlovskaya, Kelli A. Stockmal, William Higgins, John F. Ankner, Sarah E. Morgan, and  Eugenia Kharlampieva, which is currently under review at the journal ACS Applied Polymer Materials (as of March 2020). 
+The Excel sheets in this archive accompany the paper "Architecture of Hydrated Multilayer Poly(methacrylic acid) Hydrogels: Effect of solution pH", by Veronika Kozlovskaya, Kelli A. Stockmal, William Higgins, John F. Ankner, Sarah E. Morgan, and  Eugenia Kharlampieva, ACS Applied Polymer Materials 2, 2260 (2020). 
 
 There are two sets of Excel sheets representing two samples: poly(methacrylic acid) (PMAA) hydrogels deposited on silicon (Si) substrates using the hydrogen-bonded (HB) Layer-by-Layer (LbL) technique in: 1) spin-assisted (SA) and 2) dipped variants.
 
